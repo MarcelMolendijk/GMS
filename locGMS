@@ -1,0 +1,9434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": "",
+        "loc_nm": "",
+        "code": "ZH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149,
+          52.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": "",
+        "loc_nm": "Lichtmis",
+        "code": "ZH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.194,
+          52.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 103,
+        "loc_nm": "Lankhorst A32",
+        "code": "NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.193,
+          52.676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 104,
+        "loc_nm": "Veendijk",
+        "code": "NH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.194,
+          52.742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 105,
+        "loc_nm": "",
+        "code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102,
+          52.804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": "",
+        "loc_nm": "",
+        "code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.054,
+          52.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": "",
+        "loc_nm": "",
+        "code": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.857,
+          52.582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 101,
+        "loc_nm": "Berkum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 102,
+        "loc_nm": "Lichtmis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 103,
+        "loc_nm": "Lankhorst A32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 104,
+        "loc_nm": "Veendijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 105,
+        "loc_nm": "Steenwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 106,
+        "loc_nm": "Katerveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 107,
+        "loc_nm": "Eilandbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 108,
+        "loc_nm": "Ane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 109,
+        "loc_nm": "Enschede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 111,
+        "loc_nm": "Heino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 112,
+        "loc_nm": "Nijverdal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 113,
+        "loc_nm": "Ommen N36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 201,
+        "loc_nm": "Nieuwegein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 202,
+        "loc_nm": "Oudenrijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 203,
+        "loc_nm": "Harmelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 204,
+        "loc_nm": "Breukelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 205,
+        "loc_nm": "Galecopperbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 206,
+        "loc_nm": "Hagestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 207,
+        "loc_nm": "Lunetten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 208,
+        "loc_nm": "Maarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 209,
+        "loc_nm": "Rijnsweerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 210,
+        "loc_nm": "De Bilt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 211,
+        "loc_nm": "Soesterberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 212,
+        "loc_nm": "Leusden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 213,
+        "loc_nm": "Hilversum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 214,
+        "loc_nm": "Eemnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 215,
+        "loc_nm": "Bunschoten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 216,
+        "loc_nm": "Vianen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 217,
+        "loc_nm": "Veenendaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 251,
+        "loc_nm": "Ronde Venen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 252,
+        "loc_nm": "Cabauw (Lopik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 253,
+        "loc_nm": "Maarssen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 254,
+        "loc_nm": "Den Dolder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 255,
+        "loc_nm": "Grebbeberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 351,
+        "loc_nm": "Knooppunt Benelux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 352,
+        "loc_nm": "Vaanplein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 353,
+        "loc_nm": "Van Brienenoordbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 354,
+        "loc_nm": "Knooppunt Ridderkerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 355,
+        "loc_nm": "Volkeraksluis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 356,
+        "loc_nm": "De Hoge Lus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 357,
+        "loc_nm": "s Gravendeel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 358,
+        "loc_nm": "Alblasserdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 359,
+        "loc_nm": "Buldersteeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 360,
+        "loc_nm": "Merwedebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 361,
+        "loc_nm": "De Zouwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 362,
+        "loc_nm": "Everdingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 363,
+        "loc_nm": "Diefdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 364,
+        "loc_nm": "Ridderster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 371,
+        "loc_nm": "Ouddorp Haven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 372,
+        "loc_nm": "Haringvliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 373,
+        "loc_nm": "Calandbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 374,
+        "loc_nm": "Papendrechtsebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 375,
+        "loc_nm": "Oostvoorne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 376,
+        "loc_nm": "Dirksland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 377,
+        "loc_nm": "Oud Beyerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 378,
+        "loc_nm": "Haastrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 379,
+        "loc_nm": "Bergambacht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 380,
+        "loc_nm": "Noordeloos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 381,
+        "loc_nm": "Bleskensgraaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 382,
+        "loc_nm": "Oud Alblas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 410,
+        "loc_nm": "Maanderbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 411,
+        "loc_nm": "De Ginkel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 412,
+        "loc_nm": "Waterberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 413,
+        "loc_nm": "IJsselbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 414,
+        "loc_nm": "Babberich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 415,
+        "loc_nm": "Doetinchem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 416,
+        "loc_nm": "De Slenk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 417,
+        "loc_nm": "Terlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 418,
+        "loc_nm": "Barneveld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 419,
+        "loc_nm": "Groenlo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 421,
+        "loc_nm": "Ruurlo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 422,
+        "loc_nm": "Terborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 423,
+        "loc_nm": "Aalten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 424,
+        "loc_nm": "Lochem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 425,
+        "loc_nm": "Zutphen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 426,
+        "loc_nm": "Rheden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 427,
+        "loc_nm": "Brug Twente kanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 430,
+        "loc_nm": "Middachtenbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 451,
+        "loc_nm": "Vuren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 452,
+        "loc_nm": "Deil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 453,
+        "loc_nm": "Tiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 454,
+        "loc_nm": "Knooppunt Ressen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 455,
+        "loc_nm": "Ewijk brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 456,
+        "loc_nm": "Bankhoef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 457,
+        "loc_nm": "Neerbosch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 458,
+        "loc_nm": "Heumen brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 471,
+        "loc_nm": "Brakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 472,
+        "loc_nm": "Gellicum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 473,
+        "loc_nm": "Buren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 474,
+        "loc_nm": "Alemse Stoep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 475,
+        "loc_nm": "Rijnbrug Rhenen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 476,
+        "loc_nm": "Druten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 477,
+        "loc_nm": "Pleybrug Arnhem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 478,
+        "loc_nm": "Angeren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 479,
+        "loc_nm": "Groesbeek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 480,
+        "loc_nm": "Wijchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 500,
+        "loc_nm": "Westpoort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 501,
+        "loc_nm": "Alkmaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 502,
+        "loc_nm": "Uitgeest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 503,
+        "loc_nm": "Halfweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 504,
+        "loc_nm": "Kruithuis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 505,
+        "loc_nm": "Spieringweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 506,
+        "loc_nm": "Knooppunt Badhoevedorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 507,
+        "loc_nm": "Knooppunt Burgerveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 508,
+        "loc_nm": "Abbenes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 509,
+        "loc_nm": "Westzaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 510,
+        "loc_nm": "Zaandam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 511,
+        "loc_nm": "Kadoelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 512,
+        "loc_nm": "Schinkelbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 513,
+        "loc_nm": "Muiderbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 514,
+        "loc_nm": "Naardertrekvaart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 515,
+        "loc_nm": "Laren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 516,
+        "loc_nm": "Holendrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 517,
+        "loc_nm": "West Randweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 518,
+        "loc_nm": "De Hoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 520,
+        "loc_nm": "Robbenoordbos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 521,
+        "loc_nm": "West Frieschevaart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 522,
+        "loc_nm": "Broerdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 523,
+        "loc_nm": "Hoorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 524,
+        "loc_nm": "Purmerend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 528,
+        "loc_nm": "Koedijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 529,
+        "loc_nm": "Zijpersluis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 530,
+        "loc_nm": "Julianadorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 531,
+        "loc_nm": "Hippolytushoef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 532,
+        "loc_nm": "Den Oever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 533,
+        "loc_nm": "Konwerderzand dijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 534,
+        "loc_nm": "Konwerderzand brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 535,
+        "loc_nm": "Breezanddijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 551,
+        "loc_nm": "Oegstgeesterkanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 552,
+        "loc_nm": "Dwarswetering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 553,
+        "loc_nm": "Sassenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 554,
+        "loc_nm": "Prins Clausplein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 555,
+        "loc_nm": "Delft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 556,
+        "loc_nm": "Maasland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 557,
+        "loc_nm": "Zevenhuizen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 558,
+        "loc_nm": "Bodegraven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 559,
+        "loc_nm": "Groene Brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 560,
+        "loc_nm": "Rotteviaduct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 561,
+        "loc_nm": "Noordwijkerhout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 562,
+        "loc_nm": "Leimuiden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 563,
+        "loc_nm": "Nieuwveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 564,
+        "loc_nm": "Katwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 565,
+        "loc_nm": "Alphen a/d Rijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 566,
+        "loc_nm": "Stompwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 567,
+        "loc_nm": "Benthuizen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 568,
+        "loc_nm": "Midden-Delfland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 569,
+        "loc_nm": "Berkel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 570,
+        "loc_nm": "Veilingroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 571,
+        "loc_nm": "Zwammerdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 601,
+        "loc_nm": "Almere Stad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 602,
+        "loc_nm": "Almere Buiten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 603,
+        "loc_nm": "Aalscholverweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 604,
+        "loc_nm": "Runderweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 605,
+        "loc_nm": "Ketelbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 606,
+        "loc_nm": "Emmeloord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 607,
+        "loc_nm": "Vogelbek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 608,
+        "loc_nm": "Ens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 609,
+        "loc_nm": "Bant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 610,
+        "loc_nm": "Hopweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 611,
+        "loc_nm": "Stichtsebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 612,
+        "loc_nm": "Ramspolbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 711,
+        "loc_nm": "Roosendaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 712,
+        "loc_nm": "De Mark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 713,
+        "loc_nm": "Moerdijkbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 714,
+        "loc_nm": "Oosterhout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 715,
+        "loc_nm": "Knooppunt Galder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 716,
+        "loc_nm": "Knooppunt Zonzeel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 717,
+        "loc_nm": "Knooppunt De Stok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 718,
+        "loc_nm": "Knooppunt Sabina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 719,
+        "loc_nm": "Knooppunt Markiezaat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 720,
+        "loc_nm": "Zundert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 721,
+        "loc_nm": "Putte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 722,
+        "loc_nm": "Steenbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 723,
+        "loc_nm": "Rijen 5-Eikenweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 810,
+        "loc_nm": "Elsloo brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 811,
+        "loc_nm": "Stein brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 812,
+        "loc_nm": "Boshoven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 813,
+        "loc_nm": "Maasbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 814,
+        "loc_nm": "Knooppunt Kerensheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 815,
+        "loc_nm": "Kruisberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 816,
+        "loc_nm": "Dalbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 817,
+        "loc_nm": "Eijsden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 818,
+        "loc_nm": "Flyover Kerensheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 830,
+        "loc_nm": "Afferden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 831,
+        "loc_nm": "IJsselstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 832,
+        "loc_nm": "Arcen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 833,
+        "loc_nm": "Well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 834,
+        "loc_nm": "Budel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 835,
+        "loc_nm": "Horn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 836,
+        "loc_nm": "Posterholt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 837,
+        "loc_nm": "Nieuwenhagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 838,
+        "loc_nm": "Vijlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 839,
+        "loc_nm": "De Planck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 840,
+        "loc_nm": "Elmt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 841,
+        "loc_nm": "Heibloem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 850,
+        "loc_nm": "Knooppunt Zaarderheiken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 851,
+        "loc_nm": "Kelpen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 852,
+        "loc_nm": "Roosteren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 853,
+        "loc_nm": "Knooppunt Ten Esschen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 854,
+        "loc_nm": "Knooppunt Bocholtz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 870,
+        "loc_nm": "Born"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 871,
+        "loc_nm": "Overloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 872,
+        "loc_nm": "Venray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 873,
+        "loc_nm": "Waterloo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 900,
+        "loc_nm": "Hintham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 901,
+        "loc_nm": "Empel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 902,
+        "loc_nm": "Vught"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 904,
+        "loc_nm": "Kerkdriel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 905,
+        "loc_nm": "Raamsdonksveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 906,
+        "loc_nm": "Nieuwendijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 907,
+        "loc_nm": "Ravenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 908,
+        "loc_nm": "Oss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 909,
+        "loc_nm": "Keizersveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 910,
+        "loc_nm": "Drunen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 911,
+        "loc_nm": "Den Bosch Noord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 912,
+        "loc_nm": "Berkel Enschot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 913,
+        "loc_nm": "Veghel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 914,
+        "loc_nm": "Beugen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 921,
+        "loc_nm": "Heusden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 922,
+        "loc_nm": "Lithoijen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 923,
+        "loc_nm": "Eerde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 924,
+        "loc_nm": "Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 925,
+        "loc_nm": "Beers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 951,
+        "loc_nm": "Gilze-Rijen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 952,
+        "loc_nm": "Oirschot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 953,
+        "loc_nm": "Geldrop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 954,
+        "loc_nm": "Eersel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 955,
+        "loc_nm": "Leende"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 956,
+        "loc_nm": "Kempen-Peelland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 957,
+        "loc_nm": "Knooppunt Ekkersweijer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 958,
+        "loc_nm": "De Hogt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 961,
+        "loc_nm": "Chaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 962,
+        "loc_nm": "Reusel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 963,
+        "loc_nm": "Borkel en Schaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 964,
+        "loc_nm": "Nuenen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 965,
+        "loc_nm": "Elsendorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1001,
+        "loc_nm": "Kreekrakbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1002,
+        "loc_nm": "Nishoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1003,
+        "loc_nm": "Vliedberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1004,
+        "loc_nm": "Arnestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1005,
+        "loc_nm": "De Hevel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1011,
+        "loc_nm": "Zierikzee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1012,
+        "loc_nm": "De Schelphoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1013,
+        "loc_nm": "Roompot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1015,
+        "loc_nm": "Biervliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1102,
+        "loc_nm": "Oranjekanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1103,
+        "loc_nm": "Lageveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1104,
+        "loc_nm": "Lankhorst A28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1105,
+        "loc_nm": "Spier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1106,
+        "loc_nm": "Hoogeveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1107,
+        "loc_nm": "Nolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1108,
+        "loc_nm": "Zwinderen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1109,
+        "loc_nm": "Assen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1110,
+        "loc_nm": "Rolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1112,
+        "loc_nm": "De Punt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1113,
+        "loc_nm": "Albrechttunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1115,
+        "loc_nm": "Holsloot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1116,
+        "loc_nm": "Scholtenskanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1150,
+        "loc_nm": "Munnikesloot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1151,
+        "loc_nm": "Leek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1152,
+        "loc_nm": "Frieschepalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1153,
+        "loc_nm": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1154,
+        "loc_nm": "St. Annen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1155,
+        "loc_nm": "Roodeschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1156,
+        "loc_nm": "Roodehaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1157,
+        "loc_nm": "Hoogezand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1158,
+        "loc_nm": "Geerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1159,
+        "loc_nm": "Zuidbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1160,
+        "loc_nm": "Winschoterzijl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1161,
+        "loc_nm": "Hamdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1162,
+        "loc_nm": "Glimmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1163,
+        "loc_nm": "Bareveld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1171,
+        "loc_nm": "Ulrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1172,
+        "loc_nm": "Oxwerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1173,
+        "loc_nm": "Tjamsweer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1174,
+        "loc_nm": "Rondweg Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1175,
+        "loc_nm": "Oomsberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1201,
+        "loc_nm": "Kop Afsluitdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1202,
+        "loc_nm": "Bolsward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1203,
+        "loc_nm": "Sneek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1204,
+        "loc_nm": "Joure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1205,
+        "loc_nm": "St. Nicolaasga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1206,
+        "loc_nm": "Lemmer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1207,
+        "loc_nm": "Wolvega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1208,
+        "loc_nm": "Grouw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1215,
+        "loc_nm": "Deersum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1216,
+        "loc_nm": "Koudum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1217,
+        "loc_nm": "Balk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1221,
+        "loc_nm": "Pr. Margrietkanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1222,
+        "loc_nm": "Garijp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1223,
+        "loc_nm": "Drachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1224,
+        "loc_nm": "Gorredijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1225,
+        "loc_nm": "Franeker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1226,
+        "loc_nm": "Boksum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1230,
+        "loc_nm": "Lauwersmeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1231,
+        "loc_nm": "Holwerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1232,
+        "loc_nm": "Oudkerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1233,
+        "loc_nm": "Buitenpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1235,
+        "loc_nm": "Oosterwolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1236,
+        "loc_nm": "Appelscha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1237,
+        "loc_nm": "Oldetrijne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1401,
+        "loc_nm": "Beekbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1402,
+        "loc_nm": "De Hucht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1403,
+        "loc_nm": "Stroe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1404,
+        "loc_nm": "Terschuur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1405,
+        "loc_nm": "Hoevelaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1406,
+        "loc_nm": "Nulde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1407,
+        "loc_nm": "Harderwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1408,
+        "loc_nm": "Nunspeet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1409,
+        "loc_nm": "Wilp brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1410,
+        "loc_nm": "Wilp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1411,
+        "loc_nm": "Epe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1412,
+        "loc_nm": "Heerde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1413,
+        "loc_nm": "Knooppunt Hattemmerbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1414,
+        "loc_nm": "'t Harde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1415,
+        "loc_nm": "Bathmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1416,
+        "loc_nm": "Azelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1417,
+        "loc_nm": "De Lutte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1418,
+        "loc_nm": "Delden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1419,
+        "loc_nm": "Haaksbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1420,
+        "loc_nm": "Wierden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1421,
+        "loc_nm": "Westerhaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1431,
+        "loc_nm": "Brummen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1432,
+        "loc_nm": "Doornspijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1433,
+        "loc_nm": "Garderen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1434,
+        "loc_nm": "Ede Driesprong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1435,
+        "loc_nm": "Immenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1436,
+        "loc_nm": "Kop van Deelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1437,
+        "loc_nm": "Nijbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1438,
+        "loc_nm": "De Leesten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1501,
+        "loc_nm": "AVV testcentrum 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1502,
+        "loc_nm": "EMC Testkast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          50
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1505,
+        "loc_nm": "Tijdelijke brug Waalijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 101,
+        "loc_nm": "Berkum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149,
+          52.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 102,
+        "loc_nm": "Lichtmis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.194,
+          52.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 103,
+        "loc_nm": "Lankhorst A32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.193,
+          52.676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 104,
+        "loc_nm": "Veendijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.194,
+          52.742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 105,
+        "loc_nm": "Steenwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102,
+          52.804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 106,
+        "loc_nm": "Katerveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.054,
+          52.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 107,
+        "loc_nm": "Eilandbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.857,
+          52.582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 108,
+        "loc_nm": "Ane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.657,
+          52.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 109,
+        "loc_nm": "Enschede"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.942,
+          52.197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 111,
+        "loc_nm": "Heino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.249,
+          52.419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 112,
+        "loc_nm": "Nijverdal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.413,
+          52.368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 113,
+        "loc_nm": "Ommen N36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.482,
+          52.558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 201,
+        "loc_nm": "Nieuwegein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.064,
+          52.022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 202,
+        "loc_nm": "Oudenrijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07,
+          52.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 203,
+        "loc_nm": "Harmelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.943,
+          52.081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 204,
+        "loc_nm": "Breukelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.987,
+          52.195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 205,
+        "loc_nm": "Galecopperbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.092,
+          52.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 206,
+        "loc_nm": "Hagestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.115,
+          52.003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 207,
+        "loc_nm": "Lunetten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.147,
+          52.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 208,
+        "loc_nm": "Maarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391,
+          52.058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 209,
+        "loc_nm": "Rijnsweerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.161,
+          52.081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 210,
+        "loc_nm": "De Bilt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2,
+          52.093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 211,
+        "loc_nm": "Soesterberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.308,
+          52.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 212,
+        "loc_nm": "Leusden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.379,
+          52.131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 213,
+        "loc_nm": "Hilversum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19,
+          52.191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 214,
+        "loc_nm": "Eemnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.233,
+          52.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 215,
+        "loc_nm": "Bunschoten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365,
+          52.208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 216,
+        "loc_nm": "Vianen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075,
+          52.003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 217,
+        "loc_nm": "Veenendaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.526,
+          52.044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 251,
+        "loc_nm": "Ronde Venen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.841,
+          52.227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 252,
+        "loc_nm": "Cabauw (Lopik)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.882,
+          51.953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 253,
+        "loc_nm": "Maarssen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.069,
+          52.137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 254,
+        "loc_nm": "Den Dolder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.251,
+          52.135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 255,
+        "loc_nm": "Grebbeberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.615,
+          51.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 351,
+        "loc_nm": "Knooppunt Benelux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.386,
+          51.873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 352,
+        "loc_nm": "Vaanplein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.515,
+          51.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 353,
+        "loc_nm": "Van Brienenoordbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.543,
+          51.904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 354,
+        "loc_nm": "Knooppunt Ridderkerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.596,
+          51.858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 355,
+        "loc_nm": "Volkeraksluis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.402,
+          51.693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 356,
+        "loc_nm": "De Hoge Lus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.419,
+          51.781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 357,
+        "loc_nm": "s Gravendeel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.65,
+          51.776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 358,
+        "loc_nm": "Alblasserdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8,
+          51.824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 359,
+        "loc_nm": "Buldersteeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876,
+          51.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 360,
+        "loc_nm": "Merwedebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.943,
+          51.829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 361,
+        "loc_nm": "De Zouwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.004,
+          51.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 362,
+        "loc_nm": "Everdingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.087,
+          51.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 363,
+        "loc_nm": "Diefdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.147,
+          51.942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 364,
+        "loc_nm": "Ridderster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.569,
+          51.877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 371,
+        "loc_nm": "Ouddorp Haven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.939,
+          51.799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 372,
+        "loc_nm": "Haringvliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.075,
+          51.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 373,
+        "loc_nm": "Calandbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.231,
+          51.901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 374,
+        "loc_nm": "Papendrechtsebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.706,
+          51.822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 375,
+        "loc_nm": "Oostvoorne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.115,
+          51.914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 376,
+        "loc_nm": "Dirksland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.115,
+          51.752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 377,
+        "loc_nm": "Oud Beyerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.442,
+          51.823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 378,
+        "loc_nm": "Haastrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.781,
+          52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 379,
+        "loc_nm": "Bergambacht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.738,
+          51.929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 380,
+        "loc_nm": "Noordeloos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.953,
+          51.899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 381,
+        "loc_nm": "Bleskensgraaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.812,
+          51.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 382,
+        "loc_nm": "Oud Alblas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.736,
+          51.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 410,
+        "loc_nm": "Maanderbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61,
+          52.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 411,
+        "loc_nm": "De Ginkel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727,
+          52.022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 412,
+        "loc_nm": "Waterberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884,
+          52.023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 413,
+        "loc_nm": "IJsselbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.991,
+          51.973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 414,
+        "loc_nm": "Babberich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.153,
+          51.908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 415,
+        "loc_nm": "Doetinchem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.322,
+          51.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 416,
+        "loc_nm": "De Slenk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.804,
+          52.002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 417,
+        "loc_nm": "Terlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.938,
+          52.047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 418,
+        "loc_nm": "Barneveld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569,
+          52.117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 419,
+        "loc_nm": "Groenlo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.662,
+          52.098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 421,
+        "loc_nm": "Ruurlo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.555,
+          52.113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 422,
+        "loc_nm": "Terborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.383,
+          51.927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 423,
+        "loc_nm": "Aalten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.598,
+          51.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 424,
+        "loc_nm": "Lochem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.395,
+          52.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 425,
+        "loc_nm": "Zutphen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.169,
+          52.108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 426,
+        "loc_nm": "Rheden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.043,
+          52.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 427,
+        "loc_nm": "Brug Twente kanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.203,
+          52.161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 430,
+        "loc_nm": "Middachtenbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.058,
+          52.017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 451,
+        "loc_nm": "Vuren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.095,
+          51.843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 452,
+        "loc_nm": "Deil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.227,
+          51.857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 453,
+        "loc_nm": "Tiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42,
+          51.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 454,
+        "loc_nm": "Knooppunt Ressen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.868,
+          51.897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 455,
+        "loc_nm": "Ewijk brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.739,
+          51.887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 456,
+        "loc_nm": "Bankhoef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.679,
+          51.813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 457,
+        "loc_nm": "Neerbosch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.781,
+          51.843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 458,
+        "loc_nm": "Heumen brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.838,
+          51.759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 471,
+        "loc_nm": "Brakel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.086,
+          51.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 472,
+        "loc_nm": "Gellicum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.157,
+          51.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 473,
+        "loc_nm": "Buren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.301,
+          51.937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 474,
+        "loc_nm": "Alemse Stoep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.315,
+          51.794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 475,
+        "loc_nm": "Rijnbrug Rhenen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.577,
+          51.952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 476,
+        "loc_nm": "Druten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.639,
+          51.874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 477,
+        "loc_nm": "Pleybrug Arnhem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.937,
+          51.957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 478,
+        "loc_nm": "Angeren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96,
+          51.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 479,
+        "loc_nm": "Groesbeek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.932,
+          51.792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 480,
+        "loc_nm": "Wijchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75,
+          51.827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 500,
+        "loc_nm": "Westpoort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81,
+          52.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 501,
+        "loc_nm": "Alkmaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.731,
+          52.603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 502,
+        "loc_nm": "Uitgeest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.716,
+          52.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 503,
+        "loc_nm": "Halfweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.747,
+          52.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 504,
+        "loc_nm": "Kruithuis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.784,
+          52.384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 505,
+        "loc_nm": "Spieringweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71,
+          52.373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 506,
+        "loc_nm": "Knooppunt Badhoevedorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.798,
+          52.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 507,
+        "loc_nm": "Knooppunt Burgerveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.648,
+          52.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 508,
+        "loc_nm": "Abbenes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.616,
+          52.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 509,
+        "loc_nm": "Westzaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78,
+          52.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 510,
+        "loc_nm": "Zaandam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.852,
+          52.447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 511,
+        "loc_nm": "Kadoelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912,
+          52.419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 512,
+        "loc_nm": "Schinkelbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847,
+          52.338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 513,
+        "loc_nm": "Muiderbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.017,
+          52.332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 514,
+        "loc_nm": "Naardertrekvaart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.135,
+          52.305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 515,
+        "loc_nm": "Laren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21,
+          52.255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 516,
+        "loc_nm": "Holendrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.945,
+          52.289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 517,
+        "loc_nm": "West Randweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838,
+          52.393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 518,
+        "loc_nm": "De Hoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.734,
+          52.312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 520,
+        "loc_nm": "Robbenoordbos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.033,
+          52.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 521,
+        "loc_nm": "West Frieschevaart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.034,
+          52.772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 522,
+        "loc_nm": "Broerdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.027,
+          52.712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 523,
+        "loc_nm": "Hoorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.036,
+          52.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 524,
+        "loc_nm": "Purmerend"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.935,
+          52.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 528,
+        "loc_nm": "Koedijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.732,
+          52.688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 529,
+        "loc_nm": "Zijpersluis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.689,
+          52.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 530,
+        "loc_nm": "Julianadorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765,
+          52.865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 531,
+        "loc_nm": "Hippolytushoef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.98,
+          52.909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 532,
+        "loc_nm": "Den Oever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.041,
+          52.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 533,
+        "loc_nm": "Konwerderzand dijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.316,
+          53.071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 534,
+        "loc_nm": "Konwerderzand brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.336,
+          53.074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 535,
+        "loc_nm": "Breezanddijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.243,
+          53.039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 551,
+        "loc_nm": "Oegstgeesterkanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.464,
+          52.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 552,
+        "loc_nm": "Dwarswetering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.55,
+          52.159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 553,
+        "loc_nm": "Sassenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.538,
+          52.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 554,
+        "loc_nm": "Prins Clausplein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.381,
+          52.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 555,
+        "loc_nm": "Delft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4,
+          51.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 556,
+        "loc_nm": "Maasland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.266,
+          51.926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 557,
+        "loc_nm": "Zevenhuizen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.566,
+          52.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 558,
+        "loc_nm": "Bodegraven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.753,
+          52.067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 559,
+        "loc_nm": "Groene Brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.655,
+          52.008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 560,
+        "loc_nm": "Rotteviaduct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.488,
+          51.942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 561,
+        "loc_nm": "Noordwijkerhout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.535,
+          52.297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 562,
+        "loc_nm": "Leimuiden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.683,
+          52.221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 563,
+        "loc_nm": "Nieuwveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.782,
+          52.206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 564,
+        "loc_nm": "Katwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.43,
+          52.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 565,
+        "loc_nm": "Alphen a/d Rijn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71,
+          52.162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 566,
+        "loc_nm": "Stompwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.475,
+          52.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 567,
+        "loc_nm": "Benthuizen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.56,
+          52.078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 568,
+        "loc_nm": "Midden-Delfland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.296,
+          51.961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 569,
+        "loc_nm": "Berkel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.459,
+          51.966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 570,
+        "loc_nm": "Veilingroute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.282,
+          52.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 571,
+        "loc_nm": "Zwammerdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.717,
+          52.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 601,
+        "loc_nm": "Almere Stad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.177,
+          52.343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 602,
+        "loc_nm": "Almere Buiten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.288,
+          52.373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 603,
+        "loc_nm": "Aalscholverweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426,
+          52.436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 604,
+        "loc_nm": "Runderweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.533,
+          52.509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 605,
+        "loc_nm": "Ketelbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.625,
+          52.604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 606,
+        "loc_nm": "Emmeloord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.74,
+          52.682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 607,
+        "loc_nm": "Vogelbek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.775,
+          52.691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 608,
+        "loc_nm": "Ens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.821,
+          52.637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 609,
+        "loc_nm": "Bant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.767,
+          52.766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 610,
+        "loc_nm": "Hopweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.749,
+          52.808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 611,
+        "loc_nm": "Stichtsebrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.328,
+          52.314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 612,
+        "loc_nm": "Ramspolbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.841,
+          52.614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 711,
+        "loc_nm": "Roosendaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.464,
+          51.527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 712,
+        "loc_nm": "De Mark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.502,
+          51.609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 713,
+        "loc_nm": "Moerdijkbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.639,
+          51.713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 714,
+        "loc_nm": "Oosterhout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874,
+          51.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 715,
+        "loc_nm": "Knooppunt Galder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.751,
+          51.526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 716,
+        "loc_nm": "Knooppunt Zonzeel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.701,
+          51.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 717,
+        "loc_nm": "Knooppunt De Stok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.429,
+          51.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 718,
+        "loc_nm": "Knooppunt Sabina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.419,
+          51.657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 719,
+        "loc_nm": "Knooppunt Markiezaat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.28,
+          51.431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 720,
+        "loc_nm": "Zundert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.61,
+          51.496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 721,
+        "loc_nm": "Putte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.326,
+          51.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 722,
+        "loc_nm": "Steenbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36,
+          51.582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 723,
+        "loc_nm": "Rijen 5-Eikenweg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.883,
+          51.617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 810,
+        "loc_nm": "Elsloo brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.789,
+          50.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 811,
+        "loc_nm": "Stein brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.759,
+          50.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 812,
+        "loc_nm": "Boshoven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.672,
+          51.276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 813,
+        "loc_nm": "Maasbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.887,
+          51.162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 814,
+        "loc_nm": "Knooppunt Kerensheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.787,
+          50.969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 815,
+        "loc_nm": "Kruisberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.755,
+          50.901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 816,
+        "loc_nm": "Dalbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.816,
+          50.874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 817,
+        "loc_nm": "Eijsden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728,
+          50.776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 818,
+        "loc_nm": "Flyover Kerensheide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786,
+          50.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 830,
+        "loc_nm": "Afferden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.995,
+          51.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 831,
+        "loc_nm": "IJsselstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.886,
+          51.496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 832,
+        "loc_nm": "Arcen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.187,
+          51.489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 833,
+        "loc_nm": "Well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1,
+          51.547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 834,
+        "loc_nm": "Budel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.597,
+          51.223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 835,
+        "loc_nm": "Horn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.928,
+          51.205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 836,
+        "loc_nm": "Posterholt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.037,
+          51.114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 837,
+        "loc_nm": "Nieuwenhagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.038,
+          50.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 838,
+        "loc_nm": "Vijlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97,
+          50.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 839,
+        "loc_nm": "De Planck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.841,
+          50.775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 840,
+        "loc_nm": "Elmt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.051,
+          51.199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 841,
+        "loc_nm": "Heibloem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.889,
+          51.282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 850,
+        "loc_nm": "Knooppunt Zaarderheiken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.126,
+          51.394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 851,
+        "loc_nm": "Kelpen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.793,
+          51.236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 852,
+        "loc_nm": "Roosteren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.826,
+          51.078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 853,
+        "loc_nm": "Knooppunt Ten Esschen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.924,
+          50.906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 854,
+        "loc_nm": "Knooppunt Bocholtz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.008,
+          50.835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 870,
+        "loc_nm": "Born"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.821,
+          51.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 871,
+        "loc_nm": "Overloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.98,
+          51.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 872,
+        "loc_nm": "Venray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.049,
+          51.479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 873,
+        "loc_nm": "Waterloo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.058,
+          51.263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 900,
+        "loc_nm": "Hintham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.352,
+          51.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 901,
+        "loc_nm": "Empel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327,
+          51.723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 902,
+        "loc_nm": "Vught"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.301,
+          51.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 904,
+        "loc_nm": "Kerkdriel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.306,
+          51.737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 905,
+        "loc_nm": "Raamsdonksveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.884,
+          51.688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 906,
+        "loc_nm": "Nieuwendijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.927,
+          51.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 907,
+        "loc_nm": "Ravenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648,
+          51.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 908,
+        "loc_nm": "Oss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.576,
+          51.735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 909,
+        "loc_nm": "Keizersveer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89,
+          51.719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 910,
+        "loc_nm": "Drunen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121,
+          51.692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 911,
+        "loc_nm": "Den Bosch Noord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.249,
+          51.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 912,
+        "loc_nm": "Berkel Enschot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.149,
+          51.579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 913,
+        "loc_nm": "Veghel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.517,
+          51.606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 914,
+        "loc_nm": "Beugen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.944,
+          51.662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 921,
+        "loc_nm": "Heusden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121,
+          51.733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 922,
+        "loc_nm": "Lithoijen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.463,
+          51.806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 923,
+        "loc_nm": "Eerde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.487,
+          51.607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 924,
+        "loc_nm": "Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79,
+          51.674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 925,
+        "loc_nm": "Beers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.821,
+          51.732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 951,
+        "loc_nm": "Gilze-Rijen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.972,
+          51.548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 952,
+        "loc_nm": "Oirschot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.212,
+          51.527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 953,
+        "loc_nm": "Geldrop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557,
+          51.406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 954,
+        "loc_nm": "Eersel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.266,
+          51.346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 955,
+        "loc_nm": "Leende"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.582,
+          51.333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 956,
+        "loc_nm": "Kempen-Peelland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.698,
+          51.422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 957,
+        "loc_nm": "Knooppunt Ekkersweijer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427,
+          51.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 958,
+        "loc_nm": "De Hogt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.435,
+          51.405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 961,
+        "loc_nm": "Chaam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.883,
+          51.484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 962,
+        "loc_nm": "Reusel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.149,
+          51.358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 963,
+        "loc_nm": "Borkel en Schaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.437,
+          51.329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 964,
+        "loc_nm": "Nuenen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.563,
+          51.462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 965,
+        "loc_nm": "Elsendorp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728,
+          51.508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1001,
+        "loc_nm": "Kreekrakbrug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.236,
+          51.428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1002,
+        "loc_nm": "Nishoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.033,
+          51.456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1003,
+        "loc_nm": "Vliedberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.854,
+          51.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1004,
+        "loc_nm": "Arnestein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.654,
+          51.483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1005,
+        "loc_nm": "De Hevel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.142,
+          51.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1011,
+        "loc_nm": "Zierikzee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.936,
+          51.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1012,
+        "loc_nm": "De Schelphoek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.817,
+          51.698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1013,
+        "loc_nm": "Roompot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.685,
+          51.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1015,
+        "loc_nm": "Biervliet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.689,
+          51.321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1102,
+        "loc_nm": "Oranjekanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.528,
+          52.892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1103,
+        "loc_nm": "Lageveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.351,
+          52.678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1104,
+        "loc_nm": "Lankhorst A28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.219,
+          52.681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1105,
+        "loc_nm": "Spier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.461,
+          52.814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1106,
+        "loc_nm": "Hoogeveen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.458,
+          52.708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1107,
+        "loc_nm": "Nolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.427,
+          52.628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1108,
+        "loc_nm": "Zwinderen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.663,
+          52.721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1109,
+        "loc_nm": "Assen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.543,
+          52.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1110,
+        "loc_nm": "Rolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.652,
+          52.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1112,
+        "loc_nm": "De Punt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.611,
+          53.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1113,
+        "loc_nm": "Albrechttunnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.761,
+          53.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1115,
+        "loc_nm": "Holsloot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.788,
+          52.727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1116,
+        "loc_nm": "Scholtenskanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.997,
+          52.734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1150,
+        "loc_nm": "Munnikesloot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.453,
+          53.198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1151,
+        "loc_nm": "Leek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.375,
+          53.184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1152,
+        "loc_nm": "Frieschepalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.196,
+          53.133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1153,
+        "loc_nm": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.574,
+          53.251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1154,
+        "loc_nm": "St. Annen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.651,
+          53.303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1155,
+        "loc_nm": "Roodeschool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.787,
+          53.421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1156,
+        "loc_nm": "Roodehaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.619,
+          53.205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1157,
+        "loc_nm": "Hoogezand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.763,
+          53.169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1158,
+        "loc_nm": "Geerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.875,
+          53.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1159,
+        "loc_nm": "Zuidbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.895,
+          53.171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1160,
+        "loc_nm": "Winschoterzijl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.085,
+          53.146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1161,
+        "loc_nm": "Hamdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.203,
+          53.177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1162,
+        "loc_nm": "Glimmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.609,
+          53.138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1163,
+        "loc_nm": "Bareveld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.855,
+          53.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1171,
+        "loc_nm": "Ulrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.347,
+          53.363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1172,
+        "loc_nm": "Oxwerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34,
+          53.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1173,
+        "loc_nm": "Tjamsweer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.826,
+          53.323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1174,
+        "loc_nm": "Rondweg Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.539,
+          53.217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1175,
+        "loc_nm": "Oomsberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.005,
+          52.972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1201,
+        "loc_nm": "Kop Afsluitdijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.391,
+          53.097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1202,
+        "loc_nm": "Bolsward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.535,
+          53.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1203,
+        "loc_nm": "Sneek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.688,
+          53.011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1204,
+        "loc_nm": "Joure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.796,
+          52.955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1205,
+        "loc_nm": "St. Nicolaasga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.774,
+          52.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1206,
+        "loc_nm": "Lemmer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.721,
+          52.852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1207,
+        "loc_nm": "Wolvega"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.026,
+          52.864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1208,
+        "loc_nm": "Grouw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.813,
+          53.111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1215,
+        "loc_nm": "Deersum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.706,
+          53.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1216,
+        "loc_nm": "Koudum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.447,
+          52.934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1217,
+        "loc_nm": "Balk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.531,
+          52.875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1221,
+        "loc_nm": "Pr. Margrietkanaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.931,
+          53.164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1222,
+        "loc_nm": "Garijp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.954,
+          53.161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1223,
+        "loc_nm": "Drachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.178,
+          53.127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1224,
+        "loc_nm": "Gorredijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.009,
+          53.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1225,
+        "loc_nm": "Franeker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.541,
+          53.201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1226,
+        "loc_nm": "Boksum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.729,
+          53.186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1230,
+        "loc_nm": "Lauwersmeer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.178,
+          53.413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1231,
+        "loc_nm": "Holwerd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884,
+          53.365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1232,
+        "loc_nm": "Oudkerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.889,
+          53.276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1233,
+        "loc_nm": "Buitenpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24,
+          53.269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1235,
+        "loc_nm": "Oosterwolde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.286,
+          52.974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1236,
+        "loc_nm": "Appelscha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.354,
+          52.951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1237,
+        "loc_nm": "Oldetrijne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.904,
+          52.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1401,
+        "loc_nm": "Beekbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.026,
+          52.189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1402,
+        "loc_nm": "De Hucht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.894,
+          52.185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1403,
+        "loc_nm": "Stroe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.704,
+          52.192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1404,
+        "loc_nm": "Terschuur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.556,
+          52.166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1405,
+        "loc_nm": "Hoevelaken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.428,
+          52.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1406,
+        "loc_nm": "Nulde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.536,
+          52.268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1407,
+        "loc_nm": "Harderwijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.672,
+          52.342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1408,
+        "loc_nm": "Nunspeet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.824,
+          52.378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1409,
+        "loc_nm": "Wilp brug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.169,
+          52.232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1410,
+        "loc_nm": "Wilp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.147,
+          52.226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1411,
+        "loc_nm": "Epe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.009,
+          52.333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1412,
+        "loc_nm": "Heerde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.016,
+          52.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1413,
+        "loc_nm": "Knooppunt Hattemmerbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.025,
+          52.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1414,
+        "loc_nm": "'t Harde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89,
+          52.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1415,
+        "loc_nm": "Bathmen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.304,
+          52.243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1416,
+        "loc_nm": "Azelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.699,
+          52.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1417,
+        "loc_nm": "De Lutte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.006,
+          52.309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1418,
+        "loc_nm": "Delden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.751,
+          52.266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1419,
+        "loc_nm": "Haaksbergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.682,
+          52.133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1420,
+        "loc_nm": "Wierden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57,
+          52.357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1421,
+        "loc_nm": "Westerhaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6,
+          52.488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1431,
+        "loc_nm": "Brummen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164,
+          52.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1432,
+        "loc_nm": "Doornspijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.843,
+          52.424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1433,
+        "loc_nm": "Garderen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.706,
+          52.213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1434,
+        "loc_nm": "Ede Driesprong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.691,
+          52.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1435,
+        "loc_nm": "Immenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.983,
+          52.136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1436,
+        "loc_nm": "Kop van Deelen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.898,
+          52.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1437,
+        "loc_nm": "Nijbroek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.076,
+          52.279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1438,
+        "loc_nm": "De Leesten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.928,
+          52.163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1501,
+        "loc_nm": "AVV testcentrum 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.368,
+          51.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1502,
+        "loc_nm": "EMC Testkast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.056,
+          50.233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "loc_nr": 1505,
+        "loc_nm": "Tijdelijke brug Waalijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.101,
+          51.696
+        ]
+      }
+    }
+  ]
+}
